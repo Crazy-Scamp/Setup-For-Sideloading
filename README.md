@@ -58,12 +58,6 @@ Let me know your goal, and I can share the exact setup steps and tools you’ll 
 
 ---
 
-## 📝 Notes
-- Developer Mode is intended for advanced users and developers only.
-- Enabling this mode changes how your headset handles software installations and security permissions.
-- Keep your Meta account and developer dashboard credentials secure.
-
----
 
 ## 🐛 Troubleshooting
 - **Developer Mode option missing**: Ensure your account is fully verified and you have created an organization in the Developer Center.
