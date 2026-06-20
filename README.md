@@ -1,3 +1,7 @@
+ENABLING DEVELOPER MODE
+INSTALLING ADB DRIVER
+
+
 # DEVELOPER MODE SETUP
 
 A step-by-step guide to enabling Developer Mode on your Meta Quest headset, including account setup, verification, and optional configuration for sideloading apps or development work.
@@ -40,21 +44,10 @@ Meta requires all developer accounts to be verified for security and compliance 
 
 ---
 
-## 🔌 Step 4: Allow USB Debugging (Optional but Recommended)
-*Required if you plan to connect your headset to a computer for sideloading apps, transferring files, or development work.*
+## 🔌 Step 4: Allow USB Debugging
 1. Turn on your Meta Quest and plug it into your computer using a **data-capable USB‑C cable** (charging-only cables will not work).
 2. Put on the headset — you will see a system prompt asking to **Allow USB Debugging**.
 3. Select **Always allow from this computer** to approve future connections without repeating this step.
-
----
-
-## 🛠️ Next Steps
-Depending on what you want to do, you will need different tools:
-- **Install third-party apps / games**: Use tools like **SideQuest** or **QuestPatcher**.
-- **Develop your own apps or games**: Use the **Meta Quest Developer SDK**, **Unity**, or **Unreal Engine**.
-- **Test custom builds or debug software**: Use **Android Debug Bridge (ADB)**.
-
-Let me know your goal, and I can share the exact setup steps and tools you’ll need!
 
 ---
 
@@ -65,5 +58,23 @@ Let me know your goal, and I can share the exact setup steps and tools you’ll 
 - **USB connection not working**: Use a high-quality data cable, not just a charging cable.
 
 ---
+---
+
+## DOWNLOAD THE DRIVERS
+
+1. **Download Required Files**
+   - **Official Oculus ADB Drivers**: [oculus-adb-driver-2.0.zip](https://developers.meta.com/horizon/downloads/package/oculus-adb-driver-2.0/)  
+     → Extract the ZIP file to an easy‑to‑find folder (e.g. `Downloads\oculus-adb-driver-2.0`).
+   - **Android Platform Tools (ADB & Fastboot)**: [platform-tools-latest-windows.zip](https://developer.android.com/studio/releases/platform-tools)  
+     → Extract to `C:\platform-tools` for easy access.
+
+---
+
+## 🚀 Method 1: Quick Install (Recommended)
+1. Open the extracted driver folder.
+2. Right‑click **`android_winusb.inf`** → Select **Install**.
+3. Click **Yes / Allow** on all security prompts.
+4. Wait for the message: *“Operation completed successfully”*.
+5. **Restart your PC** to apply changes.
 
 *Last updated: June 2026*
