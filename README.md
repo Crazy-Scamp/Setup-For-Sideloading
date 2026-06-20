@@ -1,5 +1,5 @@
 
-# WHATS NEEDED
+## WHAT ARE WE DOING?
 - ENABLING DEVELOPER MODE
 - INSTALLING ADB DRIVER
 
@@ -63,7 +63,7 @@ Meta requires all developer accounts to be verified for security and compliance 
 ---
 ---
 
-## DOWNLOAD THE DRIVERS
+# DOWNLOAD THE DRIVERS
 
 1. **Download Required Files**
    - **Official Oculus ADB Drivers**: [oculus-adb-driver-2.0.zip](https://developers.meta.com/horizon/downloads/package/oculus-adb-driver-2.0/)  
