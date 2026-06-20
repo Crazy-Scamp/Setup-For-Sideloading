@@ -55,7 +55,7 @@ Meta requires all developer accounts to be verified for security and compliance 
 ---
 
 
-## 🐛 Troubleshooting
+## ⁉️ Troubleshooting
 - **Developer Mode option missing**: Ensure your account is fully verified and you have created an organization in the Developer Center.
 - **Headset not appearing in app**: Confirm both devices are on the same Wi‑Fi network and Bluetooth is enabled.
 - **USB connection not working**: Use a high-quality data cable, not just a charging cable.
@@ -63,7 +63,7 @@ Meta requires all developer accounts to be verified for security and compliance 
 ---
 ---
 
-# DOWNLOAD THE DRIVERS
+# ⏯️ DOWNLOAD THE DRIVERS
 
 1. **Download Required Files**
    - **Official Oculus ADB Drivers**: [oculus-adb-driver-2.0.zip](https://developers.meta.com/horizon/downloads/package/oculus-adb-driver-2.0/)  
