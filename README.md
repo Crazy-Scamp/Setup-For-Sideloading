@@ -66,10 +66,8 @@ Meta requires all developer accounts to be verified for security and compliance 
 # ⏯️ DOWNLOAD THE DRIVERS
 
 1. **Download Required Files**
-   - **Official Oculus ADB Drivers**: [oculus-adb-driver-2.0.zip](https://developers.meta.com/horizon/downloads/package/oculus-adb-driver-2.0/)  
+   - **Official Oculus ADB Drivers**: [oculus-adb-driver-2.0.zip](https://developers.meta.com/horizon/downloads/package/oculus-adb-drivers/)  
      → Extract the ZIP file to an easy‑to‑find folder (e.g. `Downloads\oculus-adb-driver-2.0`).
-   - **Android Platform Tools (ADB & Fastboot)**: [platform-tools-latest-windows.zip](https://developer.android.com/studio/releases/platform-tools)  
-     → Extract to `C:\platform-tools` for easy access.
 
 ---
 
