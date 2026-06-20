@@ -80,4 +80,28 @@ Meta requires all developer accounts to be verified for security and compliance 
 4. Wait for the message: *“Operation completed successfully”*.
 5. **Restart your PC** to apply changes.
 
-*Last updated: June 2026*
+---
+
+## ⚙️ Method 2: Manual Install (If Method 1 Fails)
+1. Keep your headset connected and awake.
+2. Right‑click the Start menu → Open **Device Manager**.
+3. Look under:
+   - `Other devices`
+   - `Portable Devices`
+   - `Universal Serial Bus devices`
+   - You will see **Meta Quest / Oculus / Unknown Device / ADB Interface** (marked with a yellow warning triangle ⚠️).
+4. Right‑click that device → **Update driver**.
+5. Choose **Browse my computer for drivers**.
+6. Click **Browse** → Select the folder where you extracted the drivers → Check **Include subfolders** → Click **Next**.
+7. If prompted, select **Oculus Composite ADB Interface** or **Android ADB Interface** → Proceed with installation.
+8. Accept any security warnings — these are safe, official drivers.
+
+✅ Success: The device will now appear under `Android Device` or `Universal Serial Bus devices` as **Oculus Composite ADB Interface**.
+
+---
+
+## 🛠️ Method 3: “Have Disk” Install (Windows 11 / Driver Issues)
+1. In **Device Manager**, right‑click the unrecognized device → **Update driver** → **Let me pick from a list of available drivers on my computer**.
+2. Click **Have Disk…** → **Browse** → Navigate to your extracted driver folder and select **`android_winusb.inf`** → Click **OK**.
+3. Select the matching driver → Click **Next** → Complete installation.
+
