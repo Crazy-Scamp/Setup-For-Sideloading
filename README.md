@@ -71,7 +71,7 @@ Meta requires all developer accounts to be verified for security and compliance 
 
 ---
 
-## 🚀 Method 1: Quick Install (Recommended)
+## 🖥 Method 1: Quick Install (Recommended)
 1. Open the extracted driver folder.
 2. Right‑click **`android_winusb.inf`** → Select **Install**.
 3. Click **Yes / Allow** on all security prompts.
