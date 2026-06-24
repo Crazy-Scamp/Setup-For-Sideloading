@@ -103,3 +103,8 @@ Meta requires all developer accounts to be verified for security and compliance 
 2. Click **Have Disk…** → **Browse** → Navigate to your extracted driver folder and select **`android_winusb.inf`** → Click **OK**.
 3. Select the matching driver → Click **Next** → Complete installation.
 
+---
+
+## ✅ YOUR DEVICE SHOULD NOW BE READY FOR SIDELOADING
+
+
