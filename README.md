@@ -1,13 +1,11 @@
+# DEVELOPER MODE SETUP
+A step-by-step guide to enabling Developer Mode on your Meta Quest headset, including account setup, verification, and optional configuration for sideloading apps or development work.
+
+---
 
 ## WHAT ARE WE DOING?
 - ENABLING DEVELOPER MODE
 - INSTALLING ADB DRIVER
-
----
-
-# DEVELOPER MODE SETUP
-
-A step-by-step guide to enabling Developer Mode on your Meta Quest headset, including account setup, verification, and optional configuration for sideloading apps or development work.
 
 ---
 
