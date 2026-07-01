@@ -106,4 +106,4 @@ Meta requires all developer accounts to be verified for security and compliance 
 ## ✅ YOUR DEVICE SHOULD NOW BE READY FOR SIDELOADING
 
 ---
-<a href="https://hits.sh/github.com/Crazy-Scamp/Setup-For-Sideloading/"><img alt="Hits" src="https://hits.sh/github.com/Crazy-Scamp/Setup-For-Sideloading.svg?style=flat-square&label=Total%20Vistors&extraCount=10"/></a>
+<a href="https://hits.sh/github.com/Crazy-Scamp/Setup-For-Sideloading/"><img alt="Hits" src="https://hits.sh/github.com/Crazy-Scamp/Setup-For-Sideloading.svg?style=flat-square&label=Total%20Visitors&extraCount=10"/></a>
